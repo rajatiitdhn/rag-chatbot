@@ -132,10 +132,10 @@ Replace the respective `"YOUR_API_KEY"` placeholders in the `.env` or config fil
 
 ```bash
 # Clone the Repository
-git clone https://github.com/Kunal-3004/Assessli-AI-Hackathon.git
+git clone https://github.com/rajatiitdhn/rag-chatbot.git
 
 # Navigate to the Flutter App Directory
-cd Assessli-AI-Hackathon
+cd rag-chatbot
 
 # Install Flutter Dependencies
 flutter pub get
@@ -152,7 +152,7 @@ flutter run
 
 ```bash
 # Navigate to the backend directory
-cd Assessli-AI-Hackathon/backend
+cd rag-chatbot/backend
 
 # Build Docker Image
 docker build -t flask-agentic .
